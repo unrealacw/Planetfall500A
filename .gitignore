@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Planetfall/Intermediate/
 Planetfall/Saved/
+Planetfall/Content/__ExternalActors__/
+Planetfall/Content/__ExternalObjects__/
